@@ -30,8 +30,3 @@ This project analyzes the distribution of parks and green space across Pittsburg
 The project includes two visualizations:
 - **Choropleth Map**: Shows green space distribution across Pittsburgh neighborhoods
 - **Horizontal Bar Chart**: Ranks all neighborhoods by green space percentage
-
-
-
-## License
-This project is open source and available under the MIT License.
